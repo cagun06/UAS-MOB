@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PesonaJawaTimur</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="dont_have_account">Tidak punya akun ?</string>
+    <string name="sign_up">MASUK</string>
+    <string name="PESONA_JAWA_TIMUR">PESONA JAWA TIMUR</string>
+    <string name="JUDUL">PESONA JAWA TIMUR</string>
+    <string name="pantai">PANTAI</string>
+    <string name="wisata_alam">Wisata alam</string>
+    <string name="wisata_sejarah">Wisata Sejarah</string>
+    <string name="wisata_kuliner">Wisata Kuliner</string>
+    <string name="wisata_pantai">Wisata Pantai</string>
+    <string name="item_name">Nama Wisata</string>
+    <string name="item_details">Detail Wisata</string>
+    <string name="lokasi">Lokasi</string>
+</resources>

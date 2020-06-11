@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pesonajawatimur">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".DashboardActivity">
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SingUpActivity">
+        </activity>
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.wisata.activity.ActivityWisataAlam">
+        </activity>
+        <activity android:name=".activity.ActivityWisataPantai">
+        </activity>
+        <activity android:name=".activity.ActivityWisataSejarah">
+        </activity>
+        <activity android:name=".activity.ActivityWisataKuliner">
+        </activity>
+        <activity android:name=".DetailsWisata.WisataAlam">
+        </activity>
+        <activity android:name=".DetailsWisata.WisataKuliner">
+        </activity>
+        <activity android:name=".DetailsWisata.WisataSejarah">
+        </activity>
+        <activity android:name=".DetailsWisata.WistaPantai">
+        </activity>
+
+
+    </application>
+
+</manifest>

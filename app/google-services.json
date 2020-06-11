@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646206429205",
+    "firebase_url": "https://login-dan-register-8b1ff.firebaseio.com",
+    "project_id": "login-dan-register-8b1ff",
+    "storage_bucket": "login-dan-register-8b1ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646206429205:android:55a4a5e381c568d152161c",
+        "android_client_info": {
+          "package_name": "com.example.pesonajawatimur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646206429205-0veu2qs0rnvrrdtclkau8vtc02caud0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxrtdElCffdXgLOj4MMv0bgTkOYAFAYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646206429205-0veu2qs0rnvrrdtclkau8vtc02caud0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
